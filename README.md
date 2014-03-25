@@ -1,4 +1,4 @@
-agile_web_fall_2013
+agile_git_practice
 ===================
 
-Repo for Agile 2013
+Repo for Agile Programming to illustrate how to work with remote code.
